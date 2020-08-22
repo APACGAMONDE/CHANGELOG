@@ -1,0 +1,2 @@
+# CHANGELOG
+APACGAMONDE Community
